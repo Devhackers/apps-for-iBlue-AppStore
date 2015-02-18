@@ -1,1 +1,31 @@
-<?xml version="1.0" encoding="UTF-8"?> <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"><plist version="1.0"><dict> <key>items</key> <array> <dict> <key>assets</key> <array> <dict> <key>kind</key> <string>software-package</string> <key>url</key> <string>https://gba4ios.herokuapp.com/download/2.0/GBA4iOS.ipa</string> </dict> </array> <key>metadata</key> <dict> <key>bundle-identifier</key> <string>com.rileytestut.enterprise.GBA4iOS</string> <key>bundle-version</key> <string>2.1</string> <key>kind</key> <string>software</string> <key>title</key> <string>GBA4iOS</string> </dict> </dict> </array> </dict> </plist>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://app.box.com/s/0plkq5f1i11fuudh2uvp0aprod8t6fya</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.rileytestut.enterprise.GBA4iOS.Original</string>
+				<key>bundle-version</key>
+				<string>1.6.2</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>gba4ios</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
